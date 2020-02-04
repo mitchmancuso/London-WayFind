@@ -1,0 +1,46 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,route_short_name,stop_sequence
+48,1222,Natural Science - #1222,,43.010172,-81.273174,6,1
+1054,1989,Huron College - #1989,,43.008253,-81.277301,6,2
+46,141,Alumni Hall EB - #141,,43.006041,-81.274944,6,3
+148,510,Delaware Hall NB - #510,,43.008818,-81.26958,6,4
+107,1816,University Hospital NB - #1816,,43.013585,-81.274229,6,5
+1120,1378,Perth Dr at Windermere NB - #1378,,43.01492,-81.274939,6,6
+1050,2083,Windermere at Richmond EB - #2083,,43.016099,-81.272653,6,7
+1052,1521,Richmond at Windermere SB - #1521,,43.015204,-81.270279,6,8
+2138,1503,Richmond north of Raymond SB - #1503,,43.012999,-81.26554,6,9
+2135,1497,Richmond at Parkdale Ave SB - #1497,,43.011195,-81.263629,6,10
+2144,1513,Richmond at University SB - #1513,,43.009232,-81.261626,6,11
+812,1482,Richmond at Huron SB - #1482,,43.007167,-81.259424,6,12
+813,1507,Richmond at Regent SB - #1507,,43.00587,-81.258632,6,13
+814,1515,Richmond at Victoria SB - #1515,,43.003846,-81.257557,6,14
+110,1465,Richmond at Cheapside SB - #1465,,43.001785,-81.25651,6,15
+815,1477,Richmond at Grosvenor SB - #1477,,42.999325,-81.255246,6,16
+816,1487,Richmond at St. James SB - #1487,,42.997724,-81.254361,6,17
+111,1495,Richmond at Oxford SB - #1495,,42.994909,-81.252915,6,18
+818,1493,Richmond at Mill SB - #1493,,42.992941,-81.251948,6,19
+2126,1463,Richmond at Central SB - #1463,,42.990176,-81.250873,6,20
+2131,1489,Richmond at Kent SB - #1489,,42.988156,-81.250752,6,2
+820,1467,Richmond at Dufferin SB - #1467,,42.986949,-81.250774,6,22
+821,1474,Richmond at Fullarton SB - #1474,,42.985588,-81.250648,6,23
+3943,2742,Richmond south of Queens SB - #2742,,42.984459,-81.250107,6,24
+3944,2740,Richmond at King SB - #2740,,42.982623,-81.249175,6,25
+2129,1479,Richmond at Horton SB - #1479,,42.979296,-81.247519,6,26
+2142,1510,Richmond at Simcoe SB - #1510,,42.977941,-81.246863,6,27
+2127,1475,Richmond at Grey SB - #1475,,42.976781,-81.246257,6,28
+1389,324,Carfrae & Carfrae St SB - #324,,42.974234,-81.245255,6,29
+1391,326,Carfrae at Woodland Pl SB - #326,,42.972115,-81.244794,6,30
+1724,790,Grand at High EB - #790,,42.971973,-81.240767,6,31
+113,936,High at Grand SB - #936,,42.9716,-81.238813,6,32
+1828,940,High at Windsor Cres SB - #940,,42.968769,-81.238034,6,33
+1822,934,High at Emery SB - #934,,42.965776,-81.237322,6,34
+1820,932,High at Chester SB - #932,,42.963761,-81.236863,6,35
+1292,192,Base Line at High EB - #192,,42.961362,-81.235476,6,36
+1309,208,Base Line west of Wellington EB - #208,,42.961636,-81.231553,6,37
+102,190,Base Line west ofFairview EB - #190,,42.962039,-81.226664,6,38
+101,1859,Victoria Hospital & Baseline Rd Ent WB - #1859,,42.961443,-81.226937,6,39
+2372,1855,Victoria Hospital Cancer Centre SB - #1855,,42.959952,-81.228915,6,40
+2370,2284,Victoria Hospital & Zone A EB - #2284,,42.959493,-81.226954,6,41
+2375,1857,Victoria Hospital at Western Counties EB - #1857,,42.959117,-81.223662,6,42
+2068,1376,Parkwood Hospital at  Western Counties Rd WB - #1376,,42.956614,-81.22348,6,43
+3820,2616,Parkwood Hospital at Mental Health Building - #2616,,42.954056,-81.226738,6,44
+116,1373,Parkwood Hospital Main Entrance WB - #1373,,42.956426,-81.22502,6,45

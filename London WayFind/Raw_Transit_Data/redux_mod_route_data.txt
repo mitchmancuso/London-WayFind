@@ -1,0 +1,49 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,route_short_name,stop_sequence
+48,1222,Natural Science - #1222,,43.010172,-81.273174,2,1
+1054,1989,Huron College - #1989,,43.008253,-81.277301,2,2
+1055,1996,Western at Lambton  SB - #1996,,43.005491,-81.276961,2,3
+2456,2003,Western at Sarnia Rd SB - #2003,,43.001194,-81.276529,2,4
+2457,2004,Althouse College - #2004,,42.999141,-81.276379,2,5
+2455,2002,Western at Platts Lane SB - #2002,,42.996341,-81.274171,2,6
+2450,1993,Western at Hollywood Crt SB - #1993,,42.996161,-81.27083,2,7
+2493,2042,Western at Essex SB - #2042,,42.995329,-81.266835,2,8
+26,2047,Wharncliffe at Oxford SB - #2047,,42.992144,-81.265068,2,9
+2498,2049,Wharncliffe at Paul SB - #2049,,42.98908,-81.263431,2,10
+2492,2041,Wharncliffe at Lexington  SB - #2041,,42.986463,-81.263031,2,11
+2496,2045,Wharncliffe at Mt. Pleasant Ave SB - #2045,,42.984204,-81.262923,2,12
+27,1600,Riverside at Wharncliffe EB - #1600,,42.982759,-81.26198,2,13
+2209,1602,Riverside at Wilson EB - #1602,,42.982691,-81.25983,2,14
+3937,2736,King at Talbot EB - #2736,,42.981858,-81.251345,2,15
+3936,2735,King at Richmond EB - #2735,,42.982479,-81.249212,2,16
+656,1080,King at Clarence EB - #1080,,42.983335,-81.245868,2,17
+1613,622,Dundas east of Wellington EB - #622,,42.985037,-81.244492,2,18
+1608,614,Dundas east of Waterloo EB - #614,,42.985819,-81.241849,2,19
+1554,552,Dundas at Colborne EB - #552,,42.986356,-81.239964,2,20
+1585,585,Dundas at Maitland EB - #585,,42.987275,-81.237054,2,21
+1616,623,Dundas at William EB - #623,,42.988001,-81.234357,2,22
+30,537,Dundas at Adelaide EB - #537,,42.988586,-81.232139,2,23
+1584,584,Dundas at Lyle EB - #584,,42.989387,-81.229835,2,24
+1578,576,Dundas at Hewitt EB - #576,,42.990129,-81.226942,2,25
+1596,596,Dundas at Rectory EB - #596,,42.990839,-81.224434,2,26
+1593,592,Dundas at Ontario EB - #592,,42.991523,-81.222292,2,27
+1595,594,Dundas at Quebec EB - #594,,42.992387,-81.219149,2,28
+1562,560,Dundas at Egerton EB - #560,,42.992935,-81.217246,2,29
+1583,583,Dundas at Kellogg Lane EB - #583,,42.993579,-81.214938,2,30
+1564,562,Dundas at Eleanor EB - #562,,42.994507,-81.211776,2,31
+1539,540,Dundas at Ashland EB - #540,,42.995436,-81.208452,2,32
+31,577,Dundas at Highbury  EB - #577,,42.996596,-81.204339,2,33
+1575,573,Dundas west of Hale EB - #573,,42.998058,-81.199337,2,34
+1568,566,Dundas at First EB - #566,,42.999356,-81.194651,2,35
+1600,602,Dundas at Saskatoon EB - #602,,43.000664,-81.190041,2,36
+1587,587,Dundas at Manitoba EB - #587,,43.001873,-81.185862,2,37
+1561,559,Dundas at Edmonton EB - #559,,43.002458,-81.183767,2,38
+1542,543,Dundas at Beatrice EB - #543,,43.003464,-81.180178,2,39
+1551,550,Dundas at Clarke EB - #550,,43.00455,-81.176374,2,40
+39,2731,Argyle Mall SB - Stop 1 - #2731,,43.002596,-81.17356,2,41
+1559,557,Dundas east of Eastwood EB - #557,,43.005338,-81.173386,2,42
+1612,618,Dundas west of Wavell EB - #618,,43.005869,-81.171576,2,43
+1611,617,Dundas east of Wavell EB - #617,,43.006422,-81.169406,2,44
+1571,569,Dundas at Forest Lawn EB - #569,,43.007235,-81.166554,2,45
+1602,605,Dundas at Speight EB - #605,,43.007731,-81.164719,2,46
+1548,547,Dundas at Carlyle EB - #547,,43.008743,-81.161078,2,47
+34,281,Bonaventure at Dundas SB - #281,,43.008767,-81.158322,2,48
